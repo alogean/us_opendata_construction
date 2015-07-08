@@ -21,7 +21,7 @@ http://catalog.data.gov/dataset/construction-spending
 http://catalog.data.gov/dataset/construction-bids-2f8f0
                        
 ## Project backlog
-This information seam to be confidential --> http://www.abc.org/Portals/1/Documents/CBI/CBIMethodology1.pdf
+This information is confidential see http://www.abc.org/Portals/1/Documents/CBI/CBIMethodology1.pdf
 
 ## Certification
 buildings/construction might need to be certified.
