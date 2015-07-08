@@ -29,5 +29,8 @@ see http://www.bre.co.uk/page.jsp?id=1762
 
 ## Some general articles about the construction industry
 
-* http://opendata.stackexchange.com/questions/4310/construction-project-data
-* 
+* [Stackexchange question](http://opendata.stackexchange.com/questions/4310/construction-project-data)
+* [Open Data in Construction, an introduction (UK)](http://www.g4c.org.uk/open-data-in-construction-an-introduction/)
+* [UK constructing excellence](http://constructingexcellence.org.uk/)
+* [BRE (UK)](http://www.bre.co.uk/)
+* [2015 Construction Outlook: An Economic Recovery Finds Its Footing](http://www.ecmag.com/section/your-business/2015-construction-outlook-economic-recovery-finds-its-footing)
