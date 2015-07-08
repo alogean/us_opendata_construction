@@ -1,2 +1,2 @@
-# List of US Open Government Data about the construction industry
+# List of US OGD ressources about the US construction industry
 This repository aims to build an inventory of the various US opendata sources for the construction industry
