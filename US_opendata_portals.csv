@@ -1,4 +1,4 @@
-Location,State,Population (US Census, 2011),Ownership?,Type ,Open Data Policy?,Data Source Description,Link,Building permits
+Location,State,Population (US Census 2011),Ownership?,Type ,Open Data Policy?,Data Source Description,Link,Building permits
 California,CA,37691912,Government,US State,No,generic opendata portal,http://data.ca.gov/,
 California,CA,37691912,Government,US State,No,California Building Standards Commission,http://www.bsc.ca.gov,
 California,CA,37691912,Government,US State,No,SF opendata portal: construction data sets,https://data.sfgov.org/data?search=Construction,
